@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Maui847
+- 👀 I’m interested in learning about nfts and coding...
+- 🌱 I’m currently learning ...
+Maui847/Maui847 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
